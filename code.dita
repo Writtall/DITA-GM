@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="code">
+    <title>Code</title>
+    <shortdesc>The work was created with a sequence of instructions written in DITA xml language,
+        which is interpreted or compiled by a computer to create software digital functionalities
+        and outputs.</shortdesc>
+    <conbody>
+        <p>Go to code: <xref href="https://github.com/Writtall/DITA-XML-docs" format="html"
+                scope="external"/></p>
+        <p><sub>Example:</sub></p>
+        <codeblock id="codeblock_svx_1gv_fxb">&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+&lt;concept id="code">
+    &lt;title>Code&lt;/title>
+    &lt;shortdesc>&lt;/shortdesc>
+    &lt;conbody>
+        &lt;p>The work was created with this sequence of instructions written in DITA xml language,
+            which is interpreted or compiled by a computer to create software digital
+            functionalities and outputs.&lt;/p>
+    &lt;/conbody>
+&lt;/concept>
+</codeblock>
+    </conbody>
+</concept>

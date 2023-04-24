@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="available_phone_numbers">
+    <title>Available phone numbers</title>
+    <shortdesc audience="expert">Start a phone conversation.</shortdesc>
+    <conbody>
+        <p conref="contact.dita#contact/Reuse_of_GM"/>
+        <p audience="expert">
+            <table frame="all" colsep="1" id="table_lmj_jnw_fxb" rowsep="1">
+                <title>Phone numbers.</title>
+                <tgroup cols="2">
+                    <colspec colname="c1" colnum="1" colsep="1" rowsep="1"/>
+                    <colspec colname="c2" colnum="2" colsep="1" rowsep="1"/>
+                    <thead>
+                        <row rowsep="1">
+                            <entry colsep="1" rowsep="1"><b>Country calling code</b></entry>
+                            <entry colsep="1" rowsep="1"><b>Phone number</b></entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row rowsep="1">
+                            <entry colsep="1" rowsep="1" align="center">00351</entry>
+                            <entry colsep="1" rowsep="1" align="justify">915533300</entry>
+                        </row>
+                        <row rowsep="1">
+                            <entry colsep="1" rowsep="1" align="center">00351</entry>
+                            <entry colsep="1" rowsep="1">938061741</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </conbody>
+</concept>

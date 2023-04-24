@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="candidate_profile">
+    <title>Candidate profile</title>
+    <shortdesc>Profile contents.</shortdesc>
+    <conbody>
+        <p>In a candidate profile you will find relevant information about academic background,
+            including educational classes,courses,technical skills and areas of specific
+            knowledge.</p>
+        <p>Relevant personal experiences maybe also referred, such as interests, hobbies and
+            extracurricular activities, which demonstrate personality, abilities and personal
+            values. </p>
+        <p>A complete profile should provide a holistic view of the candidate, combining both their
+            academics and their personal characteristics.</p>
+    </conbody>
+</concept>

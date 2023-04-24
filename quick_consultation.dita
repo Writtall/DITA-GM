@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="quick_consultation">
+    <title>Quick consultation</title>
+    <shortdesc>This road map directs you through link´s.</shortdesc>
+    <conbody>
+        <p>
+            <imagemap id="imagemap_lhl_btr_fxb">
+                <image href="walkway400.jpg" id="image_vd1_xsr_fxb"/>
+                <area>
+                    <shape>circle</shape>
+                    <coords>306, 48, 29</coords>
+                    <xref href="purpose_of_this_work.dita" format="dita">Go to purpose</xref>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>131, 138, 32</coords>
+                    <xref href="how_to_query.dita" format="dita">See how to query</xref>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>183, 261, 38</coords>
+                    <xref href="curriculum.dita" format="dita">Go to Curriculum</xref>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>339, 275, 32</coords>
+                    <xref href="available_outputs.dita" format="dita">Get outputs</xref>
+                </area>
+                <area>
+                    <shape>circle</shape>
+                    <coords>199, 411, 29</coords>
+                    <xref href="contact.dita" format="dita">Get in touch</xref>
+                </area>
+            </imagemap>
+        </p>
+    </conbody>
+</concept>

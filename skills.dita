@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="skills">
+    <title>Skills</title>
+    <shortdesc audience="expert">Capabilities, knowledge and skills to perform specific tasks or
+        activities.</shortdesc>
+    <conbody>
+        <p audience="expert">
+            <ul id="ul_iky_rnz_fxb">
+                <li>Excel VBA </li>
+                <li>SAP ERP</li>
+                <li>SQL </li>
+                <li>Microsoft Office</li>
+                <li>Outlook</li>
+                <li>Team metrics</li>
+                <li>GWO BSTR-Verticall works+ Rigger+Hidraulic+Eletricity+1º Aid+Mecanic</li>
+                <li>Driving license B </li>
+            </ul>
+        </p>
+    </conbody>
+</concept>

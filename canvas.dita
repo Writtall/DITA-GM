@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="canvas">
+    <title>Canvas</title>
+    <shortdesc>Theres available a PDF C.V. in Canvas format.</shortdesc>
+    <conbody>
+        <p>Canvas allows the creation of visual and structured representations, enabling a clear and
+            simplified understanding of key elements and the interactions between them.</p>
+        <p><b>Select to download the C.V. built in Canvas:</b><xref href="CV_resume_EN.pdf"
+                format="pdf"/></p>
+    </conbody>
+</concept>

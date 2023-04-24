@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="pdf">
+    <title>PDF</title>
+    <shortdesc>Presentation in PDF format.</shortdesc>
+    <conbody>
+        <p>PDF (Portable Document Format) is a file format used to consistently create and share
+            digital documents across different platforms. It preserves the formatting and appearance
+            of the original document, making it readable and printable across different devices and
+            operating systems.</p>
+        <p><b>Select to download the PDF:</b><xref href="GM_DITA_Presentation_PDF.pdf" format="pdf"
+            /></p>
+    </conbody>
+</concept>

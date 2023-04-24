@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="start_a_phone_call">
+    <title>Start a phone call</title>
+    <shortdesc>Topics for a structured call.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_mgg_43w_fxb">Make sure all hyphoteses are defined in a subject with
+            assertive and evolutive content to share</prereq>
+        <context>Will help you define purpose and keep in mind what you hope to achieve.</context>
+        <steps>
+            <step>
+                <cmd>Prior preparation of the purpose of the call.</cmd>
+            </step>
+            <step>
+                <cmd>Ensuring channel clarity.</cmd>
+            </step>
+            <step>
+                <cmd>Active explanation  and listening.</cmd>
+            </step>
+            <step>
+                <cmd>Take notes on conclusions</cmd>
+            </step>
+            <step>
+                <cmd>Thank and farewell.</cmd>
+            </step>
+        </steps>
+        <postreq id="postreq_ryy_3lw_fxb">Start conversation with follow diall numbers:<xref
+                href="available_phone_numbers.dita"/></postreq>
+    </taskbody>
+</task>

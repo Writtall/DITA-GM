@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="available_outputs">
+    <title>Available outputs</title>
+    <body>
+        <p>DITA is a flexible language that offers multiple forms of output to adapt content to
+            different needs and platforms. </p>
+        <p>This includes content reuse, styling and branding customization, language, localization
+            support and adaptability to multiple output channels. Output forms on DITA can be
+            customized to meet specific requirements, allowing delivery of content in different
+            formats, cultures and channels.</p>
+    </body>
+</topic>

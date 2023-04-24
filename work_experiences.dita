@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="work_experiences">
+    <title>Work experiences</title>
+    <shortdesc><b>CAT system and DITA along with specialized language.</b></shortdesc>
+    <conbody>
+        <p>Initially I used these tools that are crucial for a organization to deal in a proper way
+            with is information.</p>
+        <p>And in vestas would be great to boost knowledge on this subject and take to a new level
+            my technical writing and grow with talented people to improve my portfolio.</p>
+        <p><wintitle>Contents describing experiences in a professional environment.</wintitle></p>
+        <p>In this demonstration of <xref href="professional_experience.dita"/>, you will find
+            information about the positions held, name of the company, start and end dates,
+            responsibilities, and relevant achievements. Provides a concise and summarized overview
+            that does not dispense with personal consultation.</p>
+        <p>
+            <note id="note_b1m_bzx_fxb" type="tip">For more reelevant information do not hesitate to
+                call with <xref href="available_phone_numbers.dita"/></note>
+        </p>
+    </conbody>
+</concept>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="html">
+    <title>HTML</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Portable Document Format (PDF) is a widely used file format for creating, viewing, and
+            sharing electronic documents in a consistent, platform-independent manner, while
+            preserving the original formatting and appearance of the document.</p>
+    </conbody>
+</concept>
